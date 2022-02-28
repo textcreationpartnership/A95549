@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The impartialest satyre that ever was seen that speaks truth without fear, or flattery, or spleen: read as you list, commend it, or come mend it, the man that pen'd it, did with finis end it.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95549</idno>
+            <idno type="STC">Wing T469</idno>
+            <idno type="STC">ESTC R232922</idno>
+            <idno type="EEBO-CITATION">99898073</idno>
+            <idno type="PROQUEST">99898073</idno>
+            <idno type="VID">133437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2557:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The impartialest satyre that ever was seen that speaks truth without fear, or flattery, or spleen: read as you list, commend it, or come mend it, the man that pen'd it, did with finis end it.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the yeare,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satirical verse.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in the Dyce Collection at the Victoria and Albert Museum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  Early works to 1800.</term>
+               <term>English wit and humor --  Poetry --  Early works to 1800.</term>
+               <term>England --  Social conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133437:1"/>
+            <pb facs="tcp:133437:1"/>
+            <lg>
+               <l>The <hi>Impartialeſt Satyre that ever was ſeen,</hi>
+               </l>
+               <l>That <hi>Speaks truth without fear, or flattry, or ſpleen:</hi>
+               </l>
+               <l>Read <hi>As you liſt, commend it, or come mend it,</hi>
+               </l>
+               <l>The <hi>Man that pen'd it, did with</hi> Finis <hi>end it.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:133437:2"/>
+            <pb n="3" facs="tcp:133437:2"/>
+            <head>
+               <hi>The Impartialeſt Satyre,</hi> &amp;c.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">D</seg>Ivine <hi>
+                     <g ref="char:V">Ʋ</g>rania,</hi> ayd my feeble pen,</l>
+               <l>My Saviour and my Soveraign both were men:</l>
+               <l>Th'one God &amp; man (before the world appointed)</l>
+               <l>The other Gods man (both the Lords Anointed)</l>
+               <l>The one the Lord of Glory, and Eternall,</l>
+               <l>Th' other a glorious Lord (by Grace Supernall.)</l>
+               <l>One was by <hi>Judas</hi> for a ſmall ſum ſold,</l>
+               <l>The other for much Silver, Coyn, and Gold:</l>
+               <l>The Jewes knew not (for had they) ſayes the Story,</l>
+               <l>They had not crucifi'd the Lord of Glory:
+<note place="margin">1. <hi>Cor.</hi> 2.8.</note>
+               </l>
+               <l>But ſure the Scots did know He was their King</l>
+               <l>Which they did ſell, and to deſtruction bring.</l>
+               <l>Our Saviour, at his bitter ſuffring paſſion,</l>
+               <l>Upon his Crucifiers had compaſſion,</l>
+               <l>When his tormented ſpirits, near ſpent did pant,</l>
+               <l>He pray'd for them, declar'd them ignorant,</l>
+               <l>To this effect <hi>Father</hi> (I beg and ſue)</l>
+               <l>
+                  <hi>Forgive them. for they know not what they doe:</hi>
+               </l>
+               <l>Theſe bleſt words, for curs'd Jewes were ſoveraign plaſter,</l>
+               <l>Chriſt pray'd not for thoſe Knaves that ſold their Maſter;</l>
+               <l>Their Bargain was not caſuall, or by chaunce,</l>
+               <l>Nor can they any way plead ignorance:</l>
+               <l>For what He was, they all did know right well,</l>
+               <l>They knew He was their King that they did ſell:</l>
+               <l>The ignorant accurſed Jewes <hi>Sanedrim,</hi>
+               </l>
+               <l>Were not ſo guilty of ſelfe-knowing ſin.</l>
+               <l>Great <hi>Pontius Pilate,</hi> on's Tribunall Throne,</l>
+               <l>To judge (his Judge) th' Eternall three in one:</l>
+               <l>He did not know who then our Saviour was,</l>
+               <l>Yet did corrupt unwilling cenſure paſſe.</l>
+               <pb n="4" facs="tcp:133437:3"/>
+               <l> He was a Heathen, and from him was hid</l>
+               <l>Such knowledge that he knew not what he did.</l>
+               <l>
+                  <hi>Pilate</hi> had full Authority and Power</l>
+               <l>From Great <hi>Tiberius,</hi> Romes high Emperour,</l>
+               <l>But no Records, to memory can bring</l>
+               <l>That Subjects er'e had power to ſell their King:</l>
+               <l>Scotch murdered Kings, large Hiſtories have fil'd:</l>
+               <l>But <hi>Charles</hi> the Firſt, was firſt ſold, to be kill'd.</l>
+               <l>One hundred eight Kings Scotland had beſide,</l>
+               <l>And fifty eight of them untimely dy'd;</l>
+               <l>Beheaded, poyſon'd, murdred, ſlain, and ſtarv'd</l>
+               <l>But ſold for ſlaughter (none like <hi>Charles</hi> was ſerv'd:)</l>
+               <l>Therefore when Chriſt (the Judge) ſhall all decide,</l>
+               <l>Jewes ſhall (before thoſe Scots) be juſtifi'd:</l>
+               <l>Our Saviour ſaid unto the faithleſſe Jew,</l>
+               <l>You knew not me, be gone, I know not you.</l>
+               <l>And he'l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſay to the perfidious Scot,</l>
+               <l>
+                  <hi>Depart from me for now I know you not.</hi>
+               </l>
+               <l>You ſinn'd againſt your conſciences, you knew to</l>
+               <l>You ſold him, whom was your obedience due to;</l>
+               <l>To whom you plighted had your faiths and troaths,</l>
+               <l>By Proteſtations, Covenants and Oaths:</l>
+               <l>Such Knaves, ſaid they, <hi>would to the Vineyard go,</hi>
+               </l>
+               <l>But then the Raſcals conſciences ſaid no;</l>
+               <l>You ſwore to him, and him againe forſwore,</l>
+               <l>Once, twice, and thrice, and thrice, and three times more</l>
+               <l>I ſeeme too long upon this Theame, but yet</l>
+               <l>Something remaines, which I muſt not forget:</l>
+               <l>As <hi>Judas</hi> ſold his Maſter for a price,</l>
+               <l>He did as you did, for baſe Avarice:</l>
+               <l>He had but 30 pence (as ſome declare)</l>
+               <l>Some curſed Scots, had each a greater ſhare.</l>
+               <l>A King with Grace endow'd, with Vertue crown'd,</l>
+               <l>You ſold him for two hundred thouſand pound,</l>
+               <l>Which mony was not juſtly ſhar'd, they ſay,</l>
+               <l>The ſtrong'ſt got all, the weak went fooles away:</l>
+               <l>That when the mighty Knaves had each his Fleece,</l>
+               <l>The poor Rogues had not 15 pence a peece.</l>
+               <pb n="5" facs="tcp:133437:3"/>
+               <l> That Mony was the price of Bloud, indeed</l>
+               <l>Of Royal Bloud, which makes three Kingdomes bleed;</l>
+               <l>And ſanguine ſwords o're runs you like a floud,</l>
+               <l>Like Jewes <hi>Aceldema,</hi> a field of bloud.</l>
+               <l>Nor was th' intention of <hi>Iſcariot.</hi>
+               </l>
+               <l>So bad as was the meaning of the Scot;</l>
+               <l>For <hi>Judas</hi> ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w his Maſters Miracles,</l>
+               <l>Heard his Divine Precepts and Oracles:</l>
+               <l>He ſaw him (with his mighty wo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d) appeaſe</l>
+               <l>And calme the tempeſt of fierce winds and ſeas.
+<note place="margin">
+                     <hi>Mat.</hi> 8.26.</note>
+               </l>
+               <l>He ſaw him likewiſe on the water walke,</l>
+               <l>To raiſe the dead, and make the dumb to talke,</l>
+               <l>The blind to ſee, the lame go, the deafe heare,</l>
+               <l>Fiends diſpoſleſt, and Leopers cleanſed cleare;</l>
+               <l>He ſaw five Barly Loaves, and two ſmall Fiſhes</l>
+               <l>Were for five thouſand people plenteous Diſhes.</l>
+               <l>He ſaw the Jewes would take him, bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their power</l>
+               <l>Could not, till his appoynted time and houre:
+<note place="margin">
+                     <hi>John</hi> 7.30.</note>
+               </l>
+               <l>When as the Nazarites (through want of Grace)</l>
+               <l>Would caſt him from a Rock, or ſome high place:</l>
+               <l>Then <hi>Judas</hi> ſaw a Miracle was wrought
+<note place="margin">
+                     <hi>Luke</hi> 4.28.</note>
+               </l>
+               <l>By ſcaping from them, when his life they ſought.</l>
+               <l>All theſe things <hi>Judas</hi> ſaw, and more then theſe,</l>
+               <l>He therefore went unto the Phariſees</l>
+               <l>To take their mony, and his Maſter ſell:</l>
+               <l>Suppoſing Chriſt would free himſelfe right well</l>
+               <l>By Miracle, as he had done before,
+<note n="*" place="margin">This is probable to be the intent of Judas.</note>
+               </l>
+               <l>Believing that he could eſcape once more;</l>
+               <l>But Scottiſh Jewes, and Judaſſes did know</l>
+               <l>Their Maſter, no ſuch Miracle could ſhow;</l>
+               <l>They knew he could not ſcape, and that his beeing</l>
+               <l>Was ſad condition'd, and too faſt for fleeing:</l>
+               <l>Chriſt could have ſcap'd away. but <hi>Charles</hi> could not,</l>
+               <l>Which proves the Scots worſe then <hi>Iſcariot.</hi>
+               </l>
+               <l>And <hi>Judas</hi> did an honeſt trick or two,</l>
+               <l>More then the falſe King-ſel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Knaves will doe:</l>
+               <l>He brought the mony back, and did repent,</l>
+               <l>Confeſſe he had betray'd Bloud Innocent:</l>
+               <pb n="6" facs="tcp:133437:4"/>
+               <l> Abhorring of his crime and ill got pelfe,</l>
+               <l>And (in deſpaire) repenting hang'd himſelfe,</l>
+               <l>His ſatisfactious penitence was ſuch,</l>
+               <l>That thoſe falſe Scots will ne're do halfe ſo much.</l>
+               <l>The money they againe will never bring,</l>
+               <l>Nor ſtretch'd their Weaſands in the fatall ſtring.</l>
+               <l>JUDAS repented, and to hanging went;</l>
+               <l>But they'le be hang'd before they will repent.</l>
+               <l>My raging Satyr is yet rationall,</l>
+               <l>The fury of it is not Nationall,</l>
+               <l>Though men are all defil'd with ſins contagion,</l>
+               <l>God hath his owne in every Land and Region.</l>
+               <l>'Mongſt Jewes, great numbers were Believers, when</l>
+               <l>Our Saviour ſuffered for the ſins of men.</l>
+               <l>And ſure there's many an honeſt Loyall Scot</l>
+               <l>Whoſe Conſciences this Crime did never ſpot;</l>
+               <l>Therefore they are raſh Fooles, and they doe doat all,</l>
+               <l>That lay the blame upon the Nation totall.</l>
+               <l>There's many noble Scots have bravely bled,</l>
+               <l>Who Honour'd liv'd, and dy'd in Honours Bed,</l>
+               <l>Whoſe Fame ſhall (many an Age) out live their lives,</l>
+               <l>Whoſe valours ſcarcely had Superlatives.</l>
+               <l>And thouſands ſtill are living at this day,</l>
+               <l>That do make conſcience what they do or ſay,</l>
+               <l>This black aſperſion cannot juſtly fall,</l>
+               <l>To ſcandalize the Nation generall:</l>
+               <l>But Scotland harbours many a crafty Fox,</l>
+               <l>Of GEORGE BUCHANANS faction, and JOHN KNOX,</l>
+               <l>Their dainty Doctrine, at Geneva brew'd,</l>
+               <l>Hath made ſtark mad the miſled multitude,</l>
+               <l>That their Opinions as faſt grounded be,</l>
+               <l>As Squirrils when they skip from Tree to Tree.</l>
+               <l>Therefore 'tis thought the fault's not in the Scots,</l>
+               <l>'Tis their Religion that hath made 'em Sots:</l>
+               <l>It is their piping hot, fire new Presbytery;</l>
+               <l>(Keep from it, touch it not, it will beſquitter ye)</l>
+               <l>And if it had been the Almighties will,</l>
+               <l>I wiſh (in Scotland) they had kept it ſtill,</l>
+               <pb n="7" facs="tcp:133437:4"/>
+               <l> For whereſoe're it comes, it miſchiefe brings</l>
+               <l>The ſpoyle of Nations, Kingdomes, and of Kings,</l>
+               <l>Of Peace, and on the ſacred Tribe of Levi</l>
+               <l>Their mad-brain'd Tyranny lies too too heavy.</l>
+               <l>They, and the Levites of New Englands brood,</l>
+               <l>Have made old England drunk with Engliſh bloud,</l>
+               <l>And with a ſhew of holineſle and zeale,</l>
+               <l>They have deſtroy'd our Church, lives, Lawes, and Weale;</l>
+               <l>And as (by them) we are thus deeply wounded,</l>
+               <l>So they (by wounding us) are quite confounded,</l>
+               <l>Enſlav'd and conquer'd, ranſack'd, and Captiv'd</l>
+               <l>Of Lawes, of Liberties, and love depriv'd.</l>
+               <l>Thus is Gods Judgement fall'n upon their heads,</l>
+               <l>As it will do on all that ſo miſ-treads.</l>
+               <l>Thus I have done with Scots, I cold begin</l>
+               <l>With Engliſh Jewes, which neare as bad have bin:</l>
+               <l>But I love cleanlineſſe, and do deteſt</l>
+               <l>That Fowle that is ſo Fowle, to Fowle his Neſt.</l>
+               <l>Yet is a Knave a Knave, do what he can,</l>
+               <l>Let him be Grecian, or Barbarian,</l>
+               <l>In England, Scotland, Ireland, France and Spaine,</l>
+               <l>And in Wales too, there may be Knaves in graine.</l>
+               <l>The Eye of mortall man did never ken</l>
+               <l>A Nation that breeds not falſe-hearted men;</l>
+               <l>But though the moſt are bad, yet every where</l>
+               <l>Some honeſt men are ſcatter'd here and there.</l>
+               <l>And as th'are thickly ſown and thin come up,</l>
+               <l>So they drink deepeſt of afflictions Cup.</l>
+               <l>A Raſcals Heaven is here, and here's his Love,</l>
+               <l>A good mans Hell is here, his Heaven's above:</l>
+               <l>A vertuous man ſowes ſeeds of goodneſſe here,</l>
+               <l>And Faith aſſures Hope Fruits eternall there.</l>
+               <l>And now of London ſome few lines Ile write,</l>
+               <l>And then my Satyre bids you all Good Night.</l>
+            </lg>
+            <lg>
+               <l>THe yeare full ſixteen hundred and two ſcore,</l>
+               <l>King C. from Scotland came, and never more</l>
+               <l>Was flatt'ry us'd with great magnificence,</l>
+               <l>The City London entertain'd their Prince;</l>
+               <pb n="8" facs="tcp:133437:5"/>
+               <l> Mark how the curſed Jewes Hoſanna cry'd,</l>
+               <l>When Chriſt into Jeruſalem did ride;</l>
+               <l>With boughs they deckt their doores, and in their ſtreet,</l>
+               <l>They threw their garments trampled under feet:</l>
+               <l>Theſe flattring duties then thoſe Jewes did ſhow,</l>
+               <l>To whom both Heaven and Earth obedience owe;</l>
+               <l>Yet few dayes after their malicious ſtrife</l>
+               <l>Did Crucifie our glorious Lord of life.</l>
+               <l>Much like to this was Londons fading flame</l>
+               <l>Of love, when Royall C. f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om Scotland came,</l>
+               <l>They rung the Bells, and bonefires were conſum'd;</l>
+               <l>Thouſands were ſick with healths, and th'aire perfum'd</l>
+               <l>With Cannons thundring war, and Chimnies reak:</l>
+               <l>Yea all that heart could think, or tongue could ſpeak,</l>
+               <l>By flattring Loyalty was then expreſt,</l>
+               <l>With th'entertainment of a mighty Feaſt.</l>
+               <l>This d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d brave London do, yet pray but note,</l>
+               <l>In three dayes after they would cut his throat;</l>
+               <l>For thouſands of them did like Fiends conjoyne</l>
+               <l>To ſpend their lives, their ſoules, their goods, and coyne,</l>
+               <l>And many a Thimble, Bodkin, and a Ring,</l>
+               <l>They offer'd up to ſacrifice their King:</l>
+               <l>Oh faithleſſe truſt! accurs'd with flattry varniſht,</l>
+               <l>Like to a rotten Sepulchre new garniſht.</l>
+               <l>My Satyre, againſt all doth not complaine</l>
+               <l>In London, many thouſands do remaine,</l>
+               <l>Who are couragious, wiſe and pollitick,</l>
+               <l>And to their principles do ſtoutly ſtick,</l>
+               <l>Who never made their wealth the means to buy</l>
+               <l>Their owne and every mans calamity,</l>
+               <l>Who are no weathercocks or woodcock Widgeons.</l>
+               <l>To be of any none, or all Religions,</l>
+               <l>Who did the former Government obey,</l>
+               <l>And to be rul'd (by this) do not gainſay:</l>
+               <l>Who patient take their Lots as they do fall,</l>
+               <l>And conſtant, humbly, give God thanks for all.</l>
+               <l>In London many ſuch now living be,</l>
+               <l>But very few of them are known to me.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133437:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
